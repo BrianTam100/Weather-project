@@ -22,6 +22,7 @@ Add the weather.py script and weather.png image to your preferred IDE
 Enter a valid United States location
 
 Credits
+
 Data provided by the National Weather Service https://www.weather.gov/documentation/services-web-api
 Inspiration from online forums
 
