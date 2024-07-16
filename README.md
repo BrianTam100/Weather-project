@@ -6,8 +6,7 @@ This Python application uses various libraries to create a weather app with a Gr
 
 Features
 
-User can enter a United States address, zip code, city, significant landmark, or state to get a weather forecast.
-The app displays weather information for a week.
+User can retrieve weather information for a specific location in the United States for a week.
 
 Dependencies
 
